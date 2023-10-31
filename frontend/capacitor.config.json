@@ -1,0 +1,8 @@
+{
+  "appId": "com.spectralgt.projecth",
+  "appName": "ProjectH",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

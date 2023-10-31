@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "ai": "node disease_classifier.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "@capacitor/android": "^5.5.1",
+    "@capacitor/cli": "^5.5.1",
+    "@capacitor/core": "^5.5.1",
+    "@tensorflow/tfjs": "^4.12.0",
+    "capacitor": "^0.5.6",
+    "ndarray": "^1.0.19",
+    "ndarray-ops": "^1.2.2",
+    "onnxjs": "^0.1.8"
+  }
+}

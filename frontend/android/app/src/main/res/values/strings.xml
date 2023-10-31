@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ProjectH</string>
+    <string name="title_activity_main">ProjectH</string>
+    <string name="package_name">com.spectralgt.projecth</string>
+    <string name="custom_url_scheme">com.spectralgt.projecth</string>
+</resources>
